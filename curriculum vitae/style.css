@@ -1,0 +1,12 @@
+
+.custom-img {
+    height: 250px; 
+    object-fit: cover; 
+    width: 100%;
+}
+
+/
+.card {
+    display: flex;
+    flex-direction: column;
+}
